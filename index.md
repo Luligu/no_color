@@ -96,10 +96,10 @@ color by default via `NO_COLOR`.
 
 | Software | Language | Description | Date / Version Supported |
 |:-|:-|:-|:-|
+| [AnsiLogger](https://github.com/Luligu/node-ansi-logger) | TypeScript | AnsiLogger is a lightweight color logger for Node.js | [2026-02-06 / 3.2.0](https://github.com/Luligu/node-ansi-logger/blob/main/CHANGELOG.md) |
 | [ansis](https://github.com/webdiscus/ansis) | JavaScript | ANSI 256/truecolor styling of text in Node.js | [2021-12-28 / 1.2.2](https://github.com/webdiscus/ansis/releases/tag/v1.2.2) |
 | [asai](https://github.com/RedPRL/asai) | OCaml | Compiler diagnostics | [2023-11-03 / 0.3.0](https://github.com/RedPRL/asai/releases/tag/0.3.0) |
 | [AshConsoleGraphics](https://github.com/siljamdev/AshConsoleGraphics) | .NET | Graphics and interactive interfaces in the terminal | [2025-03-04 / 2.0.0](https://github.com/siljamdev/AshConsoleGraphics/commit/1f4b6fd72e51f70b0e0cdcd53830daeea80ed05e) |
-| [AnsiLogger](https://github.com/Luligu/node-ansi-logger) | TypeScript | AnsiLogger is a lightweight color logger for Node.js | [2026-02-06 / 3.2.0](https://github.com/Luligu/node-ansi-logger/blob/main/CHANGELOG.md) |
 | [AshLib](https://github.com/siljamdev/AshLib) | .NET | ANSI text formatting & more utilities | [2025-05-07 / 3.2.3](https://github.com/siljamdev/AshLib/commit/d48717d0e60353b539cc615aa766d26297cd2641) |
 | [Bashkit](https://bashkit.wuage.io) | Bash | Scripting model and framework | [2023-01-27 / 1.2301.32](https://github.com/Wuageorg/bashkit/blob/e99a907f538db88cf8de1a354e5c87b21e27fcea/CHANGELOG.md) |
 | [bitstring](https://github.com/scott-griffiths/bitstring) | Python | Efficient and flexible handling of binary data | [2024-04-22 / 4.2.0](https://github.com/scott-griffiths/bitstring/blob/fc3c11eef79de27eca25c7516c3549615c378fd7/release_notes.txt) |
@@ -272,7 +272,7 @@ color by default via `NO_COLOR`.
 | [Lintian](https://lintian.debian.org) | Friendly packaging advice for Debian contributors | [2021-12-12 / 2.114.87](https://salsa.debian.org/lintian/lintian/-/commit/275a48e628120100a38cbcd5a4f7f5b70c5ab47d) |
 | [lr](https://github.com/chneukirchen/lr) | File list generator | [2018-01-29 / 1.5.1](https://github.com/chneukirchen/lr/commit/8f0ac7c8abb4e0830d6cf72bbbd5f38c44b4266d) |
 | [lsd](https://github.com/Peltoche/lsd) | The next gen ls command | [2022-01-16 / 0.21.0](https://github.com/Peltoche/lsd/releases/tag/0.21.0) |
-| [matterbridge](https://matterbridge.io) | Matterbridge | [2026-02-06 / 3.5.3](https://matterbridge.io/CHANGELOG.html) |
+| [Matterbridge](https://matterbridge.io) | Matterbridge | [2026-02-06 / 3.5.3](https://matterbridge.io/CHANGELOG.html) |
 | [mblaze](https://github.com/chneukirchen/mblaze) | Unix utilities to deal with Maildir | [2018-01-29 / 1.2](https://github.com/chneukirchen/mblaze/commit/4014f03afe6d624ba1c6bdde6551b4996ba31fe5) |
 | [meli](https://meli.delivery) | Terminal mail client in Rust | [2019-01-27 / 0.7.2](https://github.com/meli/meli/commit/6a7cae09882d43c0de8a84df3d66174949ede0e0) |
 | [Meltano](https://github.com/meltano/meltano) | Data ingestion, transformation, and management | [2022-11-08 / 2.9.0](https://github.com/meltano/meltano/releases/tag/v2.9.0) |
